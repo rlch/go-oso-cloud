@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	oso "github.com/osohq/go-oso"
+	oso "github.com/rlch/go-oso-cloud"
 )
 
 type User struct {
